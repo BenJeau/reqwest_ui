@@ -6,7 +6,7 @@ Sometime in 2023, I was dissatisfied with Postman and I decided to try and creat
 2. Many features were behind having an account (I know it's free, but hate the principle)
 3. It was slow at times
 
-Ultimately, I'm still using Postman since I didn't spend much time on this project, but it was for sure something interesting to build with [Tauri](https://tauri.app/).
+Ultimately, I'm still using Postman since I didn't spend much time on this project, but it was for sure something interesting to build with [Tauri](https://tauri.app/) and [Reqwest](https://github.com/seanmonstar/reqwest).
 
 ![screenshot](./screenshot.png)
 
